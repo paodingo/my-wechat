@@ -1,0 +1,5 @@
+exports.commConfig = {
+    appID: 'wxccc5d56b86f5cd54',
+    appsecret: '49787f787740140fd9cd834e7a73ed83',
+    host: 'http://paodingo.free.idcfengye.com'
+}
